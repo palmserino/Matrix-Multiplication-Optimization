@@ -12,4 +12,4 @@ The main implementations for each of these optimizations are in the files
   3. eigenfaces_dgemm.cpp
   4. eigenfaces_mpi.cpp
 
-The matrix-matrix multiplication done in this project computes a covariance matrix used to compute the singular value decomposition across images of human faces. 
+The matrix-matrix multiplication done in this project computes a covariance matrix used to compute the singular value decomposition across images of human faces. This results in an 'eigenface' or set of eigenvectors that allow a computer to recognize a human face. 
