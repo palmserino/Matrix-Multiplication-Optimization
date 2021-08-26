@@ -1,0 +1,66 @@
+#================================================================
+# slurm-219797.out
+
+# Face size 55 x 45
+# Reading /gscratch/niac/amath583sp21/data/celebA/celebA_gray_lowres.262781_55_45_32.bin
+# elapsed time [read_file]: 12 ms
+# elapsed time [compute_mean]: 0 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [compute_covariance]: 6690 ms
+# Gflops/s = 0.915639
+# elapsed time [compute_svd]: 6607 ms
+
+
+#================================================================
+# slurm-219798.out
+
+# Face size 55 x 45
+# Reading /gscratch/niac/amath583sp21/data/celebA/celebA_gray_lowres.262781_55_45_32.bin
+# elapsed time [read_file]: 10 ms
+# elapsed time [compute_mean]: 0 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [compute_covariance]: 1883 ms
+# Gflops/s = 3.25312
+# elapsed time [compute_svd]: 6619 ms
+
+
+#================================================================
+# slurm-219799.out
+
+# Face size 55 x 45
+# Reading /gscratch/niac/amath583sp21/data/celebA/celebA_gray_lowres.262781_55_45_32.bin
+# elapsed time [read_file]: 10 ms
+# elapsed time [compute_mean]: 0 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [compute_covariance]: 263 ms
+# Gflops/s = 23.2913
+# elapsed time [compute_svd]: 1692 ms
+
+
+#================================================================
+# slurm-219800.out
+
+# Face size 55 x 45
+# elapsed time [read_file]: 18 ms
+# elapsed time [scattering]: 4 ms
+# elapsed time [compute_mean]: 16 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [reduce]: 63 ms
+# elapsed time [compute_covariance]: 128 ms
+# Gflops/s = 47.8564
+# elapsed time [compute_svd]: 1502 ms
+
+
+#================================================================
+# slurm-219801.out
+
+# Face size 55 x 45
+# Reading /gscratch/niac/amath583sp21/data/celebA/celebA_gray_lowres.262781_55_45_32.bin
+# elapsed time [read_file]: 11 ms
+# elapsed time [compute_mean]: 1 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [compute_covariance]: 85 ms
+# Gflops/s = 72.0662
+# elapsed time [compute_svd]: 1490 ms
+
+

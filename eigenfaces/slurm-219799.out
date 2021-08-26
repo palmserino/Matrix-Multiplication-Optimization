@@ -1,0 +1,8 @@
+# Face size 55 x 45
+# Reading /gscratch/niac/amath583sp21/data/celebA/celebA_gray_lowres.262781_55_45_32.bin
+# elapsed time [read_file]: 10 ms
+# elapsed time [compute_mean]: 0 ms
+# elapsed time [compute_shifted]: 0 ms
+# elapsed time [compute_covariance]: 263 ms
+# Gflops/s = 23.2913
+# elapsed time [compute_svd]: 1692 ms
