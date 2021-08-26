@@ -6,7 +6,7 @@ This project aims to optimize matrix-matrix multiplication via
   3. Vectorization
   4. Distrbution across compute nodes
 
-The main implementations for each of these optimizations are in the files
+The main implementations for each of these optimizations can be found in eigenfaces/
   1. eigenfaces_opt.cpp
   2. eigenfaces_par.cpp
   3. eigenfaces_dgemm.cpp
